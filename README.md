@@ -1,2 +1,2 @@
 # OOP_EX1
-Second assignment in the Object Oriented Programing course
+This is the second assignment in the Object Oriented Programing course.
