@@ -37,9 +37,6 @@ if __name__ == '__main__':
     input_json = open(str(sys.argv[1]), 'r')
     input_csv = open(str(sys.argv[2]), 'r')
     input_name = str(sys.argv[3])
-    # input_json = open("B5.json", 'r')
-    # input_csv = open("Calls_d.csv", 'r')
-    # input_name = "out.csv"
     a = json.load(input_json)
     b = csv.reader(input_csv)
     input_json.close()
